@@ -1,6 +1,6 @@
 Execução de um laboratório que envia arquivos entre maquinas distintas usando github
 
-baixar os arquivos desse github
+baixar os arquivos desse git
 
 maquina client envia arquivo
 maquina server recebe arquivo de qualquer client
